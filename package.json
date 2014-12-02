@@ -1,0 +1,17 @@
+{
+  "name": "fetcher",
+  "version": "0.1.0",
+  "description": "Fetch a webpage and all its linked resources",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guilherme Berger <guilherme.berger@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.18.0",
+    "q": "^1.1.2",
+    "request-promise": "^0.3.2",
+    "underscore": "^1.7.0"
+  }
+}
