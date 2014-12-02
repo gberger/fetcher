@@ -16,4 +16,9 @@ like:
 coffee index.coffee http://gberger.me gberger
 ```
 
-then open `gberger/index.html
+then open `gberger/index.html`
+
+license
+-------
+
+MIT
