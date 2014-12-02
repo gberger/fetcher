@@ -2,7 +2,7 @@
   "name": "fetcher",
   "version": "0.1.0",
   "description": "Fetch a webpage and all its linked resources",
-  "main": "index.coffee",
+  "main": "fetcher.coffee",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

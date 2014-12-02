@@ -3,17 +3,24 @@ fetcher
 
 fetch a webpage and all its linked resources.
 
+installation
+------------
+
+make sure you have node and coffeescript installed
+
+clone, and do `npm i`
+
 usage
 -----
 
 ```
-coffee index.coffee url folder
+coffee fetcher.coffee url folder
 ```
 
 like:
 
 ```
-coffee index.coffee http://gberger.me gberger
+coffee fetcher.coffee http://gberger.me gberger
 ```
 
 then open `gberger/index.html`
